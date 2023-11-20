@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f0fd3543af10ce8ca298.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Academic_Affairs_Management_System",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Academic_Affairs_Management_System::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Academic_Affairs_Management_System-Debug-e5b8cdfe0f97e809fa1f.json",
+					"name" : "Academic_Affairs_Management_System",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Academic_Affairs_Management_System_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Academic_Affairs_Management_System_autogen-Debug-ead832dc97285b3d65df.json",
+					"name" : "Academic_Affairs_Management_System_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Academic_Affairs_Management_System_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Academic_Affairs_Management_System_autogen_timestamp_deps-Debug-823849d613eadafc9b04.json",
+					"name" : "Academic_Affairs_Management_System_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/kk/Desktop/Github_project/Academic_Affairs_Management_System/build-Academic_Affairs_Management_System-Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/kk/Desktop/Github_project/Academic_Affairs_Management_System/Academic_Affairs_Management_System"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
